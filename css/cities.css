@@ -1,0 +1,163 @@
+header{
+    text-align:  center;
+    font-weight: 900;
+    font-size: 600%;
+    -webkit-background-clip: text;
+	background-clip: text;
+	background-image: url(./images/header.jpg);
+	color: transparent;
+  margin-bottom: 50px;
+}
+h1{
+  text-align: center;
+  color: goldenrod;
+
+}
+.top_bar{
+  border: 10px solid rgb(183, 52, 52);
+  width: 97%;
+  
+  height: 220px;
+  border-radius: 10px;
+  top: 0;
+  position: fixed;
+  overflow: hidden;
+ 
+}
+.main_div{
+  /* margin-top: 300px; */
+  margin-top: 250px;
+  width: 100%;
+}
+
+*{
+
+  background-color: rgb(190, 190, 190);
+}
+.jaipur{
+    margin: auto;
+    /* margin-top: 500px; */
+    width: 90%;
+    text-align: center;
+    font-size: 500%;
+    font-weight: 600;
+    color: #e17184;
+    background:url(images/header.jpg);
+    height: 400px;
+    background-size:cover;
+    text-shadow: white -1px -4px 1px ;
+}
+nav{
+  display: flex;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 50px;
+ 
+}
+nav a{
+  text-decoration: none;
+  font-size: 200%;
+  font-weight: 300;
+  border-radius: 20px;
+  color:rgb(249, 248, 248);
+  background-color: rgb(183, 52, 52);
+  padding: 3px 3px 3px 3px;
+  
+  
+}
+nav a:hover{
+  transition: 0.7s ease-in;
+ background-color: lightgoldenrodyellow;
+  color:green
+
+  
+}
+
+.all_jaipur{
+  background-color: rgb(216, 224, 224);
+ 
+  border: 10px solid rgb(183, 52, 52);
+  border-radius: 10px ;
+  /* width: 95%; */
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px 0px 20px 0px;
+}
+.cities nav li{
+  width: 20%;
+  height: auto;
+  /* text-align: right; */
+  margin-left: 50px;
+  list-style-type: none;
+  
+}
+ img{
+  width: 100%;
+  height: 500px;
+  margin:auto;
+}
+.spot{
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 5px 8px rgb(175, 168, 168);
+  border-radius: 10px;
+  background-color: rgb(241, 240, 240);
+
+}
+.spot p{
+  font-weight: 200;
+  font-size: 20px;
+  width: 98%;
+  margin: auto;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.jodhpur{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  color: rgb(0, 123, 255);
+  background:url(images/the\ blue\ city.jpg);
+  height: 400px;
+  background-size:cover;
+  text-shadow: white -1px -4px 1px ;
+}
+.udaipur{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  color: rgb(50, 82, 117);
+  background:url(images/City\ of\ Lakes.jpg);
+  height: 400px;
+  background-size:cover;
+  text-shadow: white -1px -4px 1px ;
+}
+.bharatpur{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  color:white;
+  background:url(images/bharatpur.jpg);
+  height: 400px;
+  background-size:cover;
+}
+.jaisalmer{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  color: rgb(255, 182, 11);
+  background:url(images/the\ golden\ city.jpg);
+  height: 400px;
+  background-size:cover;
+  text-shadow: rgb(237, 102, 12) -1px -4px 1px ;
+}

@@ -1,0 +1,69 @@
+.navi ul{
+    
+    display: flex;
+    /* justify-content:space-between; */
+    margin-left:-20px;
+    margin-right: 10px;
+    text-align: center;
+    word-wrap: normal;
+   
+}
+
+ul a{
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+    background-color: lightblue;
+    /* font-weight: 50; */
+    border-radius: 10px;
+    border: 1px solid rgb(97, 95, 95);
+    
+}
+
+
+img{
+
+    width: 350px;
+    height: 250px;
+}
+.image_1{
+    width: 89%;
+    margin: auto;
+    background-color: rgb(102, 102, 199);
+}
+.music{
+   width: 96%;
+   margin: auto;
+   background-color: rgb(193, 211, 233);
+   border-radius: 15px;
+   padding: 10px 10px 10px 10px ;
+   margin-bottom: 50px;
+  
+    
+}
+.dance{
+    color: white;
+    background-image: url(./image/mukundra/e7455b2cdfcfd0398c49656b2b11cf5d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    border-radius: 20px;
+    height: 200px;
+    width: 98%;
+    margin: auto;
+    font-size: 2cm;
+    text-align: left;
+    font-weight: bold;
+    background-image: url(https://www.rajasthanblog.org/wp-content/uploads/2017/05/ranthambhore-fort-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    color: red;
+    
+
+}
+p{
+    text-align: justify;
+}

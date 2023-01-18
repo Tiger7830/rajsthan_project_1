@@ -1,0 +1,60 @@
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 500px;
+   
+    /* justify-content: flex-end; */
+}
+.nav ul a{
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+   
+    font-weight: 500;
+}
+
+
+img{
+
+    width: 350px;
+    height: 250px;
+}
+.image_1{
+    width: 89%;
+    margin: auto;
+    background-color: rgb(102, 102, 199);
+}
+.music{
+   width: 96%;
+   margin: auto;
+   background-color: rgb(193, 211, 233);
+   border-radius: 15px;
+   padding: 10px 10px 10px 10px ;
+   margin-bottom: 50px;
+  
+    
+}
+.dance{
+    color: white;
+    background-image: url(./image/dance/Rajasthan-Music-Festival-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    height: 200px;
+    width: 100%;
+    font-size: 2cm;
+    text-align: left;
+    font-weight: bold;
+    background-image: url(./image/dance/74127.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    color: red;
+    
+
+}
+p{
+    text-align: justify;
+}
