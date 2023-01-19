@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-evenly;
     margin-left: 500px;
-   
+    overflow:hidden;
+    
     /* justify-content: flex-end; */
 }
 .nav ul a{
@@ -20,7 +21,7 @@ img{
     height: 250px;
 }
 .image_1{
-    width: 89%;
+    width: 83%;
     margin: auto;
     background-color: rgb(102, 102, 199);
 }
@@ -43,7 +44,9 @@ img{
 }
 header{
     height: 200px;
-    width: 100%;
+    width: 97%;
+    border-radius: 20px;
+    margin: auto;
     font-size: 2cm;
     text-align: left;
     font-weight: bold;

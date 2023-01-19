@@ -8,15 +8,18 @@
     word-wrap: normal;
    
 }
+body{
+    background-color: rgb(145, 180, 145);
+}
 
 ul a{
     text-decoration: none;
     list-style: none;
     font-size: 16px;
-    background-color: lightblue;
+    background-color: rgb(18, 163, 96);
     /* font-weight: 50; */
     border-radius: 10px;
-    border: 1px solid rgb(97, 95, 95);
+    border: 1px solid rgb(17, 134, 76);
     
 }
 
@@ -27,14 +30,14 @@ img{
     height: 250px;
 }
 .image_1{
-    width: 89%;
+    width: 83%;
     margin: auto;
-    background-color: rgb(102, 102, 199);
+    background-color: rgb(148, 180, 59);
 }
 .music{
    width: 96%;
    margin: auto;
-   background-color: rgb(193, 211, 233);
+   background-color: rgb(155, 167, 103);
    border-radius: 15px;
    padding: 10px 10px 10px 10px ;
    margin-bottom: 50px;
@@ -60,7 +63,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 30px;
-    color: red;
+    color: rgb(50, 250, 10);
     
 
 }
