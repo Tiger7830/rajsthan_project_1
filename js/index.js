@@ -16,7 +16,7 @@ function carousel(){
         imgElement.src=images[i]
         carousel_div.append(imgElement);
         i++;
-       },2500) ;
+       },3000) ;
     }
 carousel();       
 

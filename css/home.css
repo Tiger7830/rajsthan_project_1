@@ -1,0 +1,19 @@
+
+    .img{
+       width: 98%;
+       margin: auto;
+       background-color: cadetblue;
+    }
+    .img img{
+        width: 390px;
+        height: 290px;
+        margin-left: 10px;
+
+    }
+div{
+    background-color: antiquewhite;
+    margin-bottom: 50px;
+}
+body{
+    background-color: cornsilk;
+}
